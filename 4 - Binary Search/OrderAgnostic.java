@@ -1,4 +1,4 @@
-public class OrderAgnostic {
+class OrderAgnostic {
 	public static void main(String[] args) {
 		int[] arr = { -10, -5, -2, 1, 0, 2, 4, 6, 7, 9, 12, 45, 67, 91 };
 		System.out.println(orderAgnosticBinarySearch(arr, 9));

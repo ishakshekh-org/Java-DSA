@@ -1,7 +1,7 @@
 public class LeetCeiling {
 	public static void main(String[] args) {
 		char[] arr = { 'a', 'b', 'c', 'd' };
-		char target = 'c';
+		char target = 'x';
 		System.out.println(nextSmallestCharcter(arr, target));
 	}
 
